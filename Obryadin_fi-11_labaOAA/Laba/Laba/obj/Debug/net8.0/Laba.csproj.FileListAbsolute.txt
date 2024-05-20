@@ -1,0 +1,14 @@
+C:\Users\obrya\Desktop\labaOOA\Laba\Laba\obj\Debug\net8.0\Laba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obrya\Desktop\labaOOA\Laba\Laba\obj\Debug\net8.0\Laba.AssemblyInfoInputs.cache
+C:\Users\obrya\Desktop\labaOOA\Laba\Laba\obj\Debug\net8.0\Laba.AssemblyInfo.cs
+C:\Users\obrya\Desktop\labaOOA\Laba\Laba\obj\Debug\net8.0\Laba.csproj.CoreCompileInputs.cache
+C:\Users\obrya\Desktop\labaOOA\Laba\Laba\bin\Debug\net8.0\Laba.exe
+C:\Users\obrya\Desktop\labaOOA\Laba\Laba\bin\Debug\net8.0\Laba.deps.json
+C:\Users\obrya\Desktop\labaOOA\Laba\Laba\bin\Debug\net8.0\Laba.runtimeconfig.json
+C:\Users\obrya\Desktop\labaOOA\Laba\Laba\bin\Debug\net8.0\Laba.dll
+C:\Users\obrya\Desktop\labaOOA\Laba\Laba\bin\Debug\net8.0\Laba.pdb
+C:\Users\obrya\Desktop\labaOOA\Laba\Laba\obj\Debug\net8.0\Laba.dll
+C:\Users\obrya\Desktop\labaOOA\Laba\Laba\obj\Debug\net8.0\refint\Laba.dll
+C:\Users\obrya\Desktop\labaOOA\Laba\Laba\obj\Debug\net8.0\Laba.pdb
+C:\Users\obrya\Desktop\labaOOA\Laba\Laba\obj\Debug\net8.0\Laba.genruntimeconfig.cache
+C:\Users\obrya\Desktop\labaOOA\Laba\Laba\obj\Debug\net8.0\ref\Laba.dll
